@@ -1,2 +1,2 @@
 .env
-.xml
+__pycache__/
